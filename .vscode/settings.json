@@ -1,0 +1,5 @@
+{
+    "diffEditor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "wordWrapColumn"
+}
